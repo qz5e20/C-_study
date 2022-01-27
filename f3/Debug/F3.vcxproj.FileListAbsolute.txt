@@ -1,2 +1,0 @@
-C:\soft_\c++\f3\F3\Debug\F3.exe
-C:\soft_\c++\f3\Debug\F3.exe
